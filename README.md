@@ -1,6 +1,11 @@
 # Tugas 2 Machine Learning
 Nama : Nabila Aprillia
+
 NPM  : 2108107010025
+
+## Intruksi Tugas
+
+Anda diminta untuk menggunakan SVM dalam menyelesaikan 2 kasus yaitu Klasifikasi dan Regresi dengan menggunakan dataset yang tidak sama dengan dataset yang ada pada referensi.
 
 ## Support Vector Classifier (SVC)
 Dataset yang saya gunakan untuk bagian Klasifikasi bernama Breast cancer dataset yang berasal dari kaggle : https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset. 
